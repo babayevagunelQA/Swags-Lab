@@ -1,1 +1,46 @@
+Test Plan
+Website : Saucedemo - https://www.saucedemo.com/ 
+1.	Purpose
+The purpose of the Swag Labs website is to provide an online platform where users can view, select, and order available products. 
+2. Project scope:
+Login: Verification of valid and invalid parameters.
+Main Page: Verification of product images, prices, product information.
+Filtering: Filtering products by name and price.
+Burger Menu: Verification of all menu items, including About, Log Out, and Reset App State options.
+Cart Functionality: Adding products to the cart, removing products from the cart, proceeding to checkout, and returning to the main page.
+Contact: Verification of social media links (LinkedIn, Facebook, Twitter).
+
+3.	Types of Testing
+•	Functional testing
+•	Non - Functional testing: 
+•	Performance testing (load testing)
+•	UI\ UX Testing
+•       Cross Browser testing 
+
+4. Entry Criteria
+
+The website is accessible.
+Test cases are prepared in Qase.io.
+Login credentials are available.
+
+Exit Criteria 
+All planned test cases are executed.
+Critical bugs are fixed or reported.
+Test results are documented.
+Testing is completed within the deadline.
+
+4.	Test Environment
+•	Browser: Chrome Version 143.0.7499.194
+•	OS: Windows 10
+
+5.	Test Team
+•	Gunel Babayeva - QA Engineer
+
+6.	Deadline
+•	19.01.2026 – 23.01.2026
+
+7.	Risks
+•	Some functions are not tested.
+
+
 
