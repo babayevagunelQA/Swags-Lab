@@ -1,5 +1,6 @@
 **Test Plan**
 **Website** : Saucedemo - https://www.saucedemo.com/ 
+
   **1. Purpose**
 The purpose of the Swag Labs website is to provide an online platform where users can view, select, and purchase available products. 
 
