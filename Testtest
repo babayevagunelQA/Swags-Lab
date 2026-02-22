@@ -1,0 +1,54 @@
+# Test Plan – Swag Labs Website
+
+## 1. Purpose
+
+The purpose of the **Swag Labs** website is to provide an online platform where users can view, select, and order available products.
+
+---
+
+## 2. Project Scope
+
+The following features are included in the testing scope:
+
+- Login
+- Main Page (Product Page)
+- Add to Cart
+- Remove from Cart
+- Checkout
+
+---
+
+## 3. Types of Testing
+
+The following testing types will be performed:
+
+- Manual Testing
+- Functional Testing
+- Performance Testing
+- UI Testing
+
+---
+
+## 4. Test Environment
+
+- **Browser:** Chrome  
+- **Operating System:** Windows 10  
+
+---
+
+## 5. Test Team
+
+- **Gunel Babayeva** – QA Engineer  
+
+---
+## 6. Deadline
+
+- **Start Date:** 19.01.2026  
+- **End Date:** 23.01.2026  
+
+---
+
+## 7. Risks
+
+- Insufficient time for complete testing.
+- Some functions may remain untested.
