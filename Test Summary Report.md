@@ -1,8 +1,8 @@
 # TEST SUMMARY REPORT
 
-**Project Name:** Swag Labs
-**Application / Website:** https://www.saucedemo.com
-**Tested By:** Günel Babayeva
+**Project Name:** Swag Labs  
+**Application / Website:** https://www.saucedemo.com  
+**Tested By:** Günel Babayeva  
 **Test Period:** 25 Jan 2026 – 30 Jan 2026
 
 ## Test Environment
